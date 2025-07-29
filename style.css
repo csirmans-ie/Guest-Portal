@@ -9,7 +9,7 @@ body {
   background-size: 35px; */
 
   background-image: url('background.jpg');
-  background-position: center 64%;
+  background-position: center 75%;
   background-attachment: Fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -25,7 +25,7 @@ h1 {
   letter-spacing: .7px;
   text-transform: uppercase;
   font-family: 'Roboto Mono', sans-serif;
-  font-size: 25px;
+  font-size: 15px;
   line-height: 120%;
   font-weight: 500;
   color: #171717;
